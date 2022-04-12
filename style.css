@@ -1,0 +1,26 @@
+body{
+    
+    background-size: cover;
+}
+.header
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+border: 1px;
+border-radius: 0px;
+}
+
+#status, #noObjects 
+{
+font-size: 18px;
+}
+canvas{
+
+    margin-top: 125px;
+    border-radius: 30px;
+    border: 7px solid powderblue;
+    box-shadow: -10px 10px 10px powderblue ;
+
+}
+
